@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "6d5b4e7b-da54-4e52-8a21-be9f0c44ff76",
+      "name": "Aastha",
+      "email": "aasthachodha@gmail.com",
+      "passwordHash": "f8b503d492653a0ac7353fd0015ba274:f8b6e7ad3168b7164811a13fb478483a81ac90e92ff0416f225baafcf92258cfbe5a69d213f64dcebd77f0de86f0d7f242fe53580369233955808d2a09727df5",
+      "createdAt": "2026-08-21T13:40:51.758Z"
+    }
+  ],
+  "commitments": [],
+  "dailyProgress": []
+}
