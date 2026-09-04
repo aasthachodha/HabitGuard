@@ -1,8 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
-
+const API = "https://habitguard-backend-pasg.onrender.com/api";
 
 /* =====================================================
    HELPERS
